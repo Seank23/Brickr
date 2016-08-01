@@ -64,3 +64,5 @@ DerivedDataCache/*
 *.VC.db
 *.exe.stackdump
 
+Content/StarterContent/*
+
